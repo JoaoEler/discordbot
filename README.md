@@ -1,4 +1,4 @@
-# Webcam Capture Motion Tracker
+# Simple Discord Bot
 
 Simple and quick Discord Bot code
 
